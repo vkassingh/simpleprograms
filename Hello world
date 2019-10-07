@@ -1,6 +1,6 @@
-#incde <stdio.h>
+#include <stdio.h>
 int main()
 {
-   pntf("Hello, World!")
-   return 0
+   printf("Hello, World!");
+   return 0;
 }
