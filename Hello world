@@ -1,0 +1,6 @@
+#incde <stdio.h>
+int main()
+{
+   pntf("Hello, World!")
+   return 0
+}
